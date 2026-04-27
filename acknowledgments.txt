@@ -4,14 +4,14 @@ Lab 8
 * Número aproximado de horas para completar esta tarea
 ******************************************************************************/
 Número de horas:
-
+24
 
 /****************************************************************************
 * ¿Encontraste algún problema serio? Si es así, por favor descríbelo.
 ******************************************************************************/
 
 ¿Sí o no?
-
+no
 
 /****************************************************************************
 * Escribe cualquier otro comentario aquí.
@@ -23,7 +23,7 @@ Número de horas:
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
-[escribe el enlace aquí]
+https://github.com/Tomas-londono
 
 /****************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
@@ -34,4 +34,4 @@ Número de horas:
  *      con las regulaciones de la Universidad.  /s/ Ada Lovelace
  ******************************************************************************/
 
-[escribe y firma la declaración aquí]
+/s/ Tomas Londoño Cortes 

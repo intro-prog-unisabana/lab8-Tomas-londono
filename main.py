@@ -29,8 +29,11 @@ Commands:
 
             if cmd == "view":
                 print("Tasks:")
-                for t in tasks:
-                    print(t)
+                if not tasks:
+                    print("(No tasks)")
+                else:
+                    for t in tasks:
+                        print(t)
                 i += 1
 
             elif cmd == "add":
@@ -64,9 +67,6 @@ Commands:
         print(e)
     except ValueError as e:
         print(e)
-    except FileNotFoundError:
-        print(f"File {sys.argv[1]} not found! Returning an empty to-do list.")
-
 
 if __name__ == "__main__":
     main()
